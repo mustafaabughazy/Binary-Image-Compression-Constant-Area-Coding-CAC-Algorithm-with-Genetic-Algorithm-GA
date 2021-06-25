@@ -122,7 +122,7 @@
 - **Using selection and crossover operators will tend to cause the algorithms to converge on a good but sub-optimal solution**
 - **Using mutation alone induces a random walk through the search space.**
 - **Using selection and mutation creates a parallel, noise-tolerant, hill climbing algorithm**
-![](Project Outputs/Images/GA%20steps.png)
+![](./Project%20Outputs/Images/GA%20steps.png)
 
 ## **Algorithm Parameters**
 
@@ -155,7 +155,7 @@
 - **Mutation Percentage {0%,50%,100%}: 50%**
 
 ## **Example for (CAC) using Genetic Algorithm (GA)**
-![](./Project Outputs/Images/Example%20for%20(CAC)%20using%20Genetic%20Algorithm%20(GA).png)
+![](./Project%20Outputs/Images/Example%20for%20(CAC)%20using%20Genetic%20Algorithm%20(GA).png)
 
 #
 ## Testing with Dataset
@@ -172,25 +172,25 @@
 
 ## **Records Information**
 
-![](Project Outputs/Images/1.png)
+![](./Project%20Outputs/Images/1.png)
 
-![](Project Outputs/Images/2.png)
+![](./Project%20Outputs/Images/2.png)
 
 **Genetic Algorithm**
 
-![](Project Outputs/Images/3.png)
+![](./Project%20Outputs/Images/3.png)
 
-![](Project Outputs/Images/4.png)
+![](./Project%20Outputs/Images/4.png)
 
 ## **Average Information per Image**
 
-![](Project Outputs/Images/5.png)
+![](./Project%20Outputs/Images/5.png)
 
-![](Project Outputs/Images/6.png)
+![](./Project%20Outputs/Images/6.png)
 
 ## **Results Analysis**
 
-![](Project Outputs/Images/Results%20Analysis.png)
+![](./Project%20Outputs/Images/Results%20Analysis.png)
 
 ## **Conclusion**
 
