@@ -135,22 +135,19 @@
 ## **My Algorithm Notes For (CAC Algorithm)**
 
 - **Chromosome consist of two Genes**
-
-- **1st Gene: Block Width**
-- **2nd Gene: Block Height**
+  - **1st Gene: Block Width**
+  - **2nd Gene: Block Height**
 
 - **Fitness Function: CAC returns Compression Ratio (CR)**
 - **Minimum Number of Generations = 5**
 - **Δ Error for Convergence = 0.00001**
 - **Population Size:**
-
-- **Random generated in range of (3, 10% of #no of Possible Solutions)**
-- **= 3 if (#no of Possible Solutions \&lt; 30)**
+  - **Random generated in range of (3, 10% of #no of Possible Solutions)**
+  - **= 3 if (#no of Possible Solutions \&lt; 30)**
 
 - **Number of Mating Pools:**
-
-- **Random generated in range of (2, Population Size)**
-- **= Population Size if (Population Size \&lt; 2)**
+  - **Random generated in range of (2, Population Size)**
+  - **= Population Size if (Population Size \&lt; 2)**
 
 - **Mutation Percentage {0%,50%,100%}: 50%**
 
