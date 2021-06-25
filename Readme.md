@@ -82,7 +82,7 @@
 **Also, it used to compress any stream of bits not only images.**
 
 ## **Example for (CAC) using Brute Force**
-![](https://github.com/Moustafa-Abu-Ghazy/Binary-Image-Compression-Constant-Area-Coding-CAC-Algorithm-with-Genetic-Algorithm-GA/edit/master/Project Outputs/Images/Example%20for%20(CAC)%20using%20Brute%20Force.png)
+![](https://github.com/Moustafa-Abu-Ghazy/Binary-Image-Compression-Constant-Area-Coding-CAC-Algorithm-with-Genetic-Algorithm-GA/edit/master/Project%20Outputs/Images/Example%20for%20(CAC)%20using%20Brute%20Force.png)
 
 #
 ## Genetic Algorithm (GA)
