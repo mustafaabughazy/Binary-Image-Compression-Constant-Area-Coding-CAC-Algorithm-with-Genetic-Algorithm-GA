@@ -155,7 +155,7 @@
 - **Mutation Percentage {0%,50%,100%}: 50%**
 
 ## **Example for (CAC) using Genetic Algorithm (GA)**
-![](Project Outputs/Images/Example%20for%20(CAC)%20using%20Genetic%20Algorithm%20(GA).png)
+![](./Project Outputs/Images/Example%20for%20(CAC)%20using%20Genetic%20Algorithm%20(GA).png)
 
 #
 ## Testing with Dataset
